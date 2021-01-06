@@ -38,8 +38,8 @@ Drinks:
 3. Coffee
 
 1.nested lists
-  -inner one
-    -inner inner one
+  - inner one
+    - inner inner one
     
 Goal:
 - [x] Get an intern job next summer
