@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+#CSE110Lab1
+##Yuefeng Huang
+###first markdown try
 
-You can use the [editor on GitHub](https://github.com/alexyuefeng/CSE110Lab1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+**this is bold**
+*italicized*
+~~mistake~~
+**nested _italic_**
+***important***
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+> This is coded
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](https://www.linkedin.com/in/yuefeng-huang/) and ![Image](src)
+These are code quoting:
+```
+cout << "Hello World";
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+This is my [linedin page](https://www.linkedin.com/in/yuefeng-huang/).
+[readme file](README.md)
+My habbits:
+-soccer
+-video game
+-sleep
 
-### Jekyll Themes
+Drinks:
+1.Coke
+2.Milktea
+3.Coffee
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alexyuefeng/CSE110Lab1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+1.nested lists
+  -inner one
+    -inner inner one
+    
+Goal: @alexyuefeng
+- [x] Get an intern job next summer
+- [ ] Get a full time job
+- [ ] Graduate
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
