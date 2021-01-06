@@ -1,11 +1,17 @@
 #CSE110Lab1
+
 ##Yuefeng Huang
+
 ###first markdown try
 
 **this is bold**
+
 *italicized*
+
 ~~mistake~~
+
 **nested _italic_**
+
 ***important***
 
 ![](vs.PNG)
