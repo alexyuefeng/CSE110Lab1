@@ -8,6 +8,8 @@
 **nested _italic_**
 ***important***
 
+![](vs.PNG)
+
 > This is coded
 
 These are code quoting:
