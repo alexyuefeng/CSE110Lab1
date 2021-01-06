@@ -16,7 +16,7 @@
 
 ![](vs.PNG)
 
-> This is coded
+> This is quoted
 
 These are code quoting:
 ```
