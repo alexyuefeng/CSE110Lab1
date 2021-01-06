@@ -15,8 +15,9 @@ These are code quoting:
 cout << "Hello World";
 ```
 
-This is my [linedin page](https://www.linkedin.com/in/yuefeng-huang/).
-[readme file](README.md)
+This is my [linkedin page](https://www.linkedin.com/in/yuefeng-huang/).
+
+[readme file](CSE110Lab1/README.md)
 My habbits:
 -soccer
 -video game
