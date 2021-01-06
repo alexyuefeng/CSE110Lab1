@@ -1,8 +1,8 @@
-#CSE110Lab1
+# CSE110Lab1
 
-##Yuefeng Huang
+## Yuefeng Huang
 
-###first markdown try
+### first markdown try
 
 **this is bold**
 
