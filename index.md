@@ -17,7 +17,7 @@ cout << "Hello World";
 
 This is my [linkedin page](https://www.linkedin.com/in/yuefeng-huang/).
 
-[readme file](CSE110Lab1/README.md)
+[readme file](CSE110Lab1/readme.md)
 
 My habbits:
 -soccer
