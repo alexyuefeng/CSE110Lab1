@@ -41,7 +41,7 @@ Drinks:
   -inner one
     -inner inner one
     
-Goal: @github/alexyuefeng
+Goal:
 - [x] Get an intern job next summer
 - [ ] Get a full time job
 - [ ] Graduate
