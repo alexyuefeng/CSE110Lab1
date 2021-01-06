@@ -28,14 +28,14 @@ This is my [linkedin page](https://www.linkedin.com/in/yuefeng-huang/).
 [readme file](CSE110Lab1/readme.md)
 
 My habbits:
--soccer
--video game
--sleep
+- soccer
+- video game
+- sleep
 
 Drinks:
-1.Coke
-2.Milktea
-3.Coffee
+1. Coke
+2. Milktea
+3. Coffee
 
 1.nested lists
   -inner one
